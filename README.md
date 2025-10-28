@@ -1,4 +1,4 @@
-A minimal, easy-to-run demo that implements the core idea from **A-MEM: Agentic Memory for LLM Agents (2025)** — a memory-augmented chat agent that stores past interactions as embeddings and retrieves the most relevant memories at each turn.
+A minimal, easy-to-run demo that implements the core idea from **A-MEM: Agentic Memory for LLM Agents (2025)** - a memory-augmented chat agent that stores past interactions as embeddings and retrieves the most relevant memories at each turn.
 
 ## What it demonstrates
 - Storing conversational turns (user query + agent response) in a local JSON memory store.
@@ -21,7 +21,7 @@ DEEPSEEK_API_KEY="sk-..."
 
 
 ## Note
-- This is a minimal proof-of-concept — it is **not** production-ready. It focuses on clarity and reproducibility for a quick internship assignment.
+- This is a minimal proof-of-concept - it is **not** production-ready.
 
 ## Paper Reference
 - Xu et al., "A-MEM: Agentic Memory for LLM Agents" (2025). arXiv:2502.12110 [https://arxiv.org/pdf/2502.12110v10] 
